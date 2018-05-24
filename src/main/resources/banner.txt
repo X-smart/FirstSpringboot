@@ -1,2 +1,8 @@
 TaiJi Study
 v1.0.0
+
+My name 
+${Ansi.NAME}
+
+My email
+${Ansi.EMAIL}
